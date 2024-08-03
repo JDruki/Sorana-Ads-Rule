@@ -1,0 +1,10 @@
+!Title: Sorana Ads Rule
+!Last modified: 2024-08-03T03:16:17.666536Z
+!--------------------------------------
+!Total lines: 4
+!Version: 0.0.1-alpha
+
+!Homepage: https://github.com/JDruki/Sorana-Ads-Rule
+!License: https://github.com/JDruki/Sorana-Ads-Rule/blob/main/LICENSE
+
+-*-*-*-*.ourl.co^$script,third-party
